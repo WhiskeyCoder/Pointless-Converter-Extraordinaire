@@ -21,7 +21,7 @@ Welcome to the **Pointless Converter Extraordinaire**, the most unnecessarily ad
 
 ## 🖼️ Screenshot
 
-![Pointless Screenshot]([your-screenshot.png]([https://github.com/WhiskeyCoder/Pointless-Converter-Extraordinaire/blob/main/screenshot.png.png?raw=true](https://github.com/WhiskeyCoder/Pointless-Converter-Extraordinaire/blob/main/screenshot.png.png)))
+![Pointless Screenshot](https://github.com/WhiskeyCoder/Pointless-Converter-Extraordinaire/blob/main/screenshot.png.png)
 
 > *"1.0 Reddit Thread = 0.4 Zoom Meeting That Could Be An Emails. Peer-reviewed by my cat."*
 
