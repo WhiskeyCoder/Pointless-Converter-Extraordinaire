@@ -21,9 +21,9 @@ Welcome to the **Pointless Converter Extraordinaire**, the most unnecessarily ad
 
 ## 🖼️ Screenshot
 
-![Pointless Screenshot]([your-screenshot.png](https://github.com/WhiskeyCoder/Pointless-Converter-Extraordinaire/blob/main/screenshot.png.png?raw=true))
+![Pointless Screenshot]([your-screenshot.png]([https://github.com/WhiskeyCoder/Pointless-Converter-Extraordinaire/blob/main/screenshot.png.png?raw=true](https://github.com/WhiskeyCoder/Pointless-Converter-Extraordinaire/blob/main/screenshot.png.png)))
 
-> *"1 Average Turkish Grandmother = 18.3704 Xbox Game Pass Cards. Even Einstein would be confused."*
+> *"1.0 Reddit Thread = 0.4 Zoom Meeting That Could Be An Emails. Peer-reviewed by my cat."*
 
 ---
 
