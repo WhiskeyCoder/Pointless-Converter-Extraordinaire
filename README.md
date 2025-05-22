@@ -84,9 +84,9 @@ We'll probably approve it while laughing.
 MIT — because chaos should be free.
 
 ## 🧡 Credits
-Built by Whsikey (@WhiskeyCoder)
-My French cousin with questionable sanity
-Loved by Mrs Whiskey — because someone has to keep this madman caffeinated.
+- Built by Whsikey (@WhiskeyCoder)
+- My French cousin with questionable sanity
+- Also Mrs Whiskey — because someone has to keep this madman caffeinated.
 
 
 ## ✨ Final Words
